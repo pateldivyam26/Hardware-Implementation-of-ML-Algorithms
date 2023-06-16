@@ -4,7 +4,7 @@ This repository contains the implementation of Gesture Recognition using Arduino
 
 ## Requirements
 
-- Arduino Nano 33 BLE Sense board
+- Arduino Nano 33 BLE Sense Board
 - USB cable
 - Arduino IDE
 - Python environment with scikit-learn, numpy, and pandas libraries
